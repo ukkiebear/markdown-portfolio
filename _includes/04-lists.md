@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+# This is a new list of my favourite foods:
+- Burgers
+- Chips
+- Pizza
+- Potatoes
+- Dan Dan Noodles
+- Pasta
+- Bread
+- Focaccia
+- Everything starchy
